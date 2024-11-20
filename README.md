@@ -44,7 +44,8 @@ Installation:
 Clone this repository:
 
 bash
-Copy code
+Copy code:
+
 git clone https://github.com/rituharsh9436/Innotech.git
 
 cd Innotech
@@ -52,16 +53,20 @@ cd Innotech
 Install the required dependencies:
 
 bash
-Copy code
+Copy code:
+
 pip install -r requirements.txt
+
 Ensure you have Python 3.x and pip installed.
 
 Usage
 To run the Streamlit app, execute the following in your terminal:
 
 bash
-Copy code
+Copy code:
+
 streamlit run app.py
+
 This will start the app and open it in your browser.
 
 License
