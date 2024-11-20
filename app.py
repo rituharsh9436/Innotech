@@ -3,8 +3,8 @@ import numpy as np
 import streamlit as st
 import pickle as pk
 
-model = pk.load(open("https://github.com/rituharsh9436/Innotech/blob/main/Heart_disease_model.pkl", "rb"))
-data = pd.read_csv("https://github.com/rituharsh9436/Innotech/blob/main/heart_disease.csv")
+model = pk.load(open('.\Heart_disease_model.pkl', 'rb'))
+data = pd.read_csv('.\heart_disease.csv')
 
 st.title("💓 Heart Disease Prediction App")
 st.markdown(
