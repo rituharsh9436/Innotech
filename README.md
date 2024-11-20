@@ -45,7 +45,7 @@ Clone this repository:
 
 bash
 Copy code
-git clone https://github.com/rituharsh9436/InnotechGroupProject.git
+git clone https://github.com/rituharsh9436/Innotech.git
 cd InnotechGroupProject
 Install the required dependencies:
 
