@@ -15,7 +15,7 @@ Data Analysis:
 Performed dataset refinement and updates
 Trained the machine learning model and imported the trained model for use in the application
 
-Chanchal, Harshit Gupta, Kuldeep Chaudhary:
+Harsh,Chanchal, Harshit Gupta, Kuldeep Chaudhary:
 Streamlit Interface:
 Developed the app file and created a user-friendly interface using Streamlit.
 Ensured the app was interactive and easy to navigate.
