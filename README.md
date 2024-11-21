@@ -2,12 +2,17 @@
 InnotechGroupProject:
 Overview:
 This project is part of the Innotech school event. The team, Binary Brigade, developed a solution with a focus on Early Diagnose of heart risks. The project combines data analysis, machine learning, and a Streamlit interface to provide a functional and interactive experience.
+Team Name: Binary Brigade
 
 Team Members:
+
 Harsh Bhardwaj (team lead)
-Chanchal
+
+Chanchal Sharma
+
 Harshit Gupta
-Kuldeep Chaudhary
+
+Kuldeep Singh
 
 Contributions:
 Harsh Bhardwaj:
